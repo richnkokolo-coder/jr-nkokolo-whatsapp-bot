@@ -1,0 +1,14 @@
+# Copie ce fichier en ".env" et remplis avec tes vraies valeurs
+# (à récupérer dans Meta for Developers > ton app > WhatsApp > Configuration API)
+
+# Token d'accès permanent de ton app Meta (System User Token recommandé)
+WHATSAPP_TOKEN=colle_ton_token_ici
+
+# ID du numéro de téléphone WhatsApp Business (visible dans Meta for Developers)
+WHATSAPP_PHONE_NUMBER_ID=colle_l_id_ici
+
+# Chaîne secrète que TU choisis, à re-saisir dans Meta lors de la configuration du webhook
+WHATSAPP_VERIFY_TOKEN=choisis_une_phrase_secrete
+
+# Port du serveur (Render/Railway/Heroku le fournissent automatiquement en général)
+PORT=3000

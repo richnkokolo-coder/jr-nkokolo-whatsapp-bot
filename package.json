@@ -1,0 +1,16 @@
+{
+  "name": "jr-nkokolo-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Assistant IA WhatsApp Business pour JR NKOKOLO (transport, logistique, location de véhicules)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "body-parser": "^1.20.2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "JR2026001": {
+    "statut": "En route",
+    "etape": "Sortie de l'entrepôt de Pointe-Noire, direction Dolisie",
+    "eta": "Livraison estimée demain avant 14h"
+  },
+  "JR2026002": {
+    "statut": "Livré",
+    "etape": "Colis remis au destinataire le 20/08/2026 à 11h32",
+    "eta": "Livraison terminée"
+  },
+  "JR2026003": {
+    "statut": "Pris en charge",
+    "etape": "Colis récupéré chez l'expéditeur, en attente de départ",
+    "eta": "Départ prévu sous 24h"
+  }
+}
