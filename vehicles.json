@@ -1,6 +1,0 @@
-[
-  { "categorie": "Berline", "modele": "Toyota Corolla", "disponible": true, "tarif_jour": "35 000 FCFA/jour" },
-  { "categorie": "SUV", "modele": "Toyota RAV4", "disponible": true, "tarif_jour": "55 000 FCFA/jour" },
-  { "categorie": "Utilitaire", "modele": "Toyota Hiace", "disponible": false, "tarif_jour": "70 000 FCFA/jour" },
-  { "categorie": "4x4", "modele": "Toyota Land Cruiser", "disponible": true, "tarif_jour": "90 000 FCFA/jour" }
-]
